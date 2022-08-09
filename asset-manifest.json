@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/use-context-app/static/css/main.5bac94c9.css",
+    "main.js": "/use-context-app/static/js/main.04ef5b31.js",
+    "index.html": "/use-context-app/index.html",
+    "main.5bac94c9.css.map": "/use-context-app/static/css/main.5bac94c9.css.map",
+    "main.04ef5b31.js.map": "/use-context-app/static/js/main.04ef5b31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bac94c9.css",
+    "static/js/main.04ef5b31.js"
+  ]
+}
